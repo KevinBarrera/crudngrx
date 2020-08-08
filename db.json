@@ -1,0 +1,8 @@
+{
+  "users": [
+    {"id": "1", "username": "kev97bar", "name": "Kevin", "email": "kev97barrera@gmail.com", "country": "Mexico"},
+    {"id": "2", "username": "Jaibar", "name": "Jairo", "email": "jairo@gmail.com", "country": "Mexico"},
+    {"id": "3", "username": "RocaYoc", "name": "Beto", "email": "rocayoc@gmail.com", "country": "Mexico"},
+    {"id": "4", "username": "Scoba", "name": "Jacobo", "email": "jacoboscoba@gmail.com", "country": "Mexico"}
+  ]
+}
